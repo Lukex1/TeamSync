@@ -23,14 +23,15 @@ With **Supabase** integration, all data is stored securely and synchronized in r
 
 ## 🖼️ Screenshots
 
-### Dashboard
-![Dashboard](assets/screenshots/home.png)
+### Event Preview
+![Event Preview](assets/screenshots/EventPreview.png)
+(assets/screenshots/EventPreview2.png)
 
-### Weekly Calendar
-![Weekly Calendar](assets/screenshots/calendar_week.png)
+### Join Team
+![Weekly Calendar](assets/screenshots/Join_team.png)
 
-### Event Details
-![Event Details](assets/screenshots/event_detail.png)
+### Invite Code Generation System
+![Event Details](assets/screenshots/InviteCodeGeneration.png)
 
 ---
 
